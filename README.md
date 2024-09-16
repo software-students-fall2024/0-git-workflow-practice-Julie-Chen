@@ -9,5 +9,7 @@ The article points out that generative AI is increasingly being used to create f
 
 *I didn't know that AI had huge implications for the scientific community. How will be able to verify scientific papers in the future? Hopefully there will be major oversight for this* - Madison Phung
 
+Neha Magesh(nehamagesh):
+This was fascinating to me. It's interesting how almost two thirds of research papers are using Generative AI in some shape or form. It makes me wonder if this is the basis of education nowadays, how industries will operate in the future. 
 Aneri Shah (anerivs):
 I never thought of research papers now being written by Generative AI. Definitely something to watch out for. Hopefully Google Scholar can implement some quality control measures in the future to safeguard against AI-generated research and manipulated data.
