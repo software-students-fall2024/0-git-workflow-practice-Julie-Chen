@@ -11,3 +11,8 @@ The article points out that generative AI is increasingly being used to create f
 
 Aneri Shah (anerivs):
 I never thought of research papers now being written by Generative AI. Definitely something to watch out for. Hopefully Google Scholar can implement some quality control measures in the future to safeguard against AI-generated research and manipulated data.
+
+###Comments by Andrea Tang:
+I think this is a great article about growing use of AI.
+
+
